@@ -8,7 +8,7 @@
 
 <resources>
     <!-- Bottom navigation -->
-    <string name="home">Home</string>
+    <string name="home">MVmusic</string>
     <string name="songs">Songs</string>
     <string name="artists">Artists</string>
     <string name="albums">Albums</string>
@@ -19,7 +19,7 @@
         <item quantity="other">%d selected</item>
     </plurals>
 
-    <!-- Home -->
+    <!-- Home MV-->
     <string name="history">History</string>
     <string name="stats">Stats</string>
     <string name="mood_and_genres">Mood and Genres</string>
@@ -263,12 +263,6 @@
     <string name="small">Small</string>
     <string name="big">Big</string>
 
-    <string name="content">Content</string>
-    <string name="action_logout">Log out</string>
-    <string name="action_login">Log in</string>
-    <string name="login">Login</string>
-    <string name="not_logged_in">Not logged in</string>
-    <string name="login_failed">Login failed</string>
 
     <string name="content_language">Default content language</string>
     <string name="content_country">Default content country</string>
@@ -333,14 +327,5 @@
     <string name="backup_create_failed">Couldn\'t create backup</string>
     <string name="restore_failed">Failed to restore backup</string>
 
-    <string name="dismiss">Dismiss</string>
-    <string name="options">Options</string>
-    <string name="preview">Preview</string>
-
-    <string name="about">About</string>
-    <string name="app_version">App version</string>
-
-    <string name="new_version_available">New version available</string>
-    <string name="translation_models">Translation Models</string>
-    <string name="clear_translation_models">Clear translation models</string>
+    
 </resources>
